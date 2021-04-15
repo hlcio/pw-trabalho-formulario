@@ -1,0 +1,19 @@
+body{
+background-color: rgb(164, 207, 224);
+}
+
+button {    
+background-color: rgb(161, 224, 58);
+color: rgb(194, 191, 41);
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+border: 20px dashed rgb(231, 13, 13);
+}
+
+button:hover{
+ background-color: rgb(145, 10, 10);
+ color: rgb(255, 255, 255);
+
+}
